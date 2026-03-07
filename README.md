@@ -1,31 +1,46 @@
-<!--
-**Isaac-G17/Isaac-G17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> 👋 Hey, I'm Isaac Guzman </h1>
+<p align="center">
+  <a href="https://github.com/Isaac-G17" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Isaac-G17&label=Profile%20views&color=red&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+💻 WordPress Developer  
+🧑‍💻 Coder at Riwi  
+🚀 Freelance Web Developer for a marketing agency  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building functional, optimized, and conversion-focused websites using WordPress and modern web technologies.
 
-<h1 align="center"> Hello world 🌎 </h1>
+I’m passionate about web development because it combines creativity and logic in one place.
 
-
-## 👋 I'm Isaac Guzman
-
-I'm  a web developoer in wordpress and currently and coder at Riwi. <br> I work as a freelance for a marketing agency, where I turn ideas in websites.<br> I'm passionate about web development and music.
+---
 
 ## 📚💻 What I do
 
- - Wordpress Website development
- - Technical SEO and optimazation 
- - Web layout
+- WordPress website development
+- Technical SEO optimization
+- Web layout (HTML, CSS, JavaScript)
+- PHP customization
+- Version control with Git & GitHub
 
+---
+
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,wordpress,git,figma&perline=4" alt="Core Technologies"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-G17&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-G17&layout=compact)
+
+---
 ## Beyond code
 
 When I'm not coding:
@@ -33,3 +48,7 @@ When I'm not coding:
 ⚽ I play or watch soccer <br>
 🎸 I play electric bass <br>
 📚 I keep learning new things
+
+---
+
+💡 *Building digital solutions while enjoying the process.*
