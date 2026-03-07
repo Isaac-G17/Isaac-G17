@@ -33,14 +33,14 @@ I’m passionate about web development because it combines creativity and logic 
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-G17&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-G17&layout=compact)
+-->
 
----
 ## Beyond code
 
 When I'm not coding:
