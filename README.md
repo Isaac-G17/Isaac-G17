@@ -11,8 +11,6 @@
 
 I specialize in building functional, optimized, and conversion-focused websites using WordPress and modern web technologies.
 
-I’m passionate about web development because it combines creativity and logic in one place.
-
 ---
 
 ## 📚💻 What I do
