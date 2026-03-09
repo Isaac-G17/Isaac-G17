@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hey, I'm Isaac Guzman </h1>
+<h1 align="center"> 👋 Hi there, I'm Isaac Guzman </h1>
 <p align="center">
   <a href="https://github.com/Isaac-G17" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Isaac-G17&label=Profile%20views&color=red&style=flat" alt="Profile views" />
@@ -18,8 +18,7 @@ I specialize in building functional, optimized, and conversion-focused websites 
 - WordPress website development
 - Technical SEO optimization
 - Web layout (HTML, CSS, JavaScript)
-- PHP customization
-- Version control with Git & GitHub
+<!-- Version control with Git & GitHub -->
 
 ---
 
