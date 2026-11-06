@@ -1,4 +1,4 @@
-<p align="right">🇪🇸 Español · <a href="README.en.md">🇬🇧 English</a></p>
+<p align="right">🇨🇴 Español · <a href="README.en.md">🇺🇸 English</a></p>
 
 <h1 align="center">Hola, soy Isaac Guzmán 👋</h1>
 
@@ -24,7 +24,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| ⭐ [**SkillBridge AI**](https://github.com/crapdev/SkillBridge-fullStack) | Plataforma de mentorías con asistente de IA. **Líder de célula** y principal contribuidor del repositorio | Java 21 · Spring Boot · Angular · PostgreSQL · Redis · RabbitMQ · Docker · CI/CD |
+| ⭐ [**SkillBridge AI**](https://github.com/crapdev/SkillBridge-fullStack) | Plataforma de mentorías con asistente de IA. **Líder de célula** y principal contribuidor del repositorio · [🔗 Demo](https://skill-bridge-full-stack-sigma.vercel.app/) | Java 21 · Spring Boot · Angular · PostgreSQL · Redis · RabbitMQ · Docker · CI/CD |
 | [**HelpFlow**](https://github.com/Isaac-G17/HelpFlow) | Gestión de tickets de soporte TI con microservicios, monitoreo y despliegue con Docker | Java · Spring Boot · PostgreSQL · Prometheus · Grafana |
 | [**StockBridge**](https://github.com/Isaac-G17/StockBridge) | Inventario y solicitudes internas con arquitectura hexagonal y observabilidad | Java · Spring Boot · JWT · Flyway · Docker |
 | [**InventarioB**](https://github.com/Isaac-G17/InventarioB) | Inventario fullstack con autenticación por access y refresh tokens | Spring Boot · Angular · PostgreSQL |
