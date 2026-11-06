@@ -24,7 +24,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| ⭐ [**SkillBridge AI**](https://github.com/crapdev/SkillBridge-fullStack) | Mentoring platform with an AI assistant. **Team lead** and top contributor to the repository · [🔗 Live demo](https://skill-bridge-full-stack-sigma.vercel.app/) | Java 21 · Spring Boot · Angular · PostgreSQL · Redis · RabbitMQ · Docker · CI/CD |
+| ⭐ [**SkillBridge AI**](https://github.com/crapdev/SkillBridge-fullStack) | Mentoring platform with an AI assistant. **Co-team lead** alongside a teammate · [🔗 Live demo](https://skill-bridge-full-stack-sigma.vercel.app/) | Java 21 · Spring Boot · Angular · PostgreSQL · Redis · RabbitMQ · Docker · CI/CD |
 | [**HelpFlow**](https://github.com/Isaac-G17/HelpFlow) | IT support ticket management with microservices, monitoring and Docker deployment | Java · Spring Boot · PostgreSQL · Prometheus · Grafana |
 | [**StockBridge**](https://github.com/Isaac-G17/StockBridge) | Inventory and internal requests with hexagonal architecture and observability | Java · Spring Boot · JWT · Flyway · Docker |
 | [**InventarioB**](https://github.com/Isaac-G17/InventarioB) | Full-stack inventory app with access and refresh token authentication | Spring Boot · Angular · PostgreSQL |
