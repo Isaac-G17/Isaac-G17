@@ -32,7 +32,7 @@
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,docker,git,github,js,html,css,angular,wordpress,linux&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,docker,git,github,js,html,css,angular,figma,wordpress,linux&perline=8" alt="Tecnologías" />
 </p>
 
 ### 🌱 Ahora mismo
