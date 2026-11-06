@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Isaac Guzmán 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · Java · Spring Boot · Python · SQL · Docker</b><br>
+  <b>Backend Developer · Java · Spring Boot · SQL · Docker</b><br>
   Coder en <b>Riwi</b> · Desarrollador web freelance (WordPress) · Barranquilla, Colombia
 </p>
 
@@ -14,7 +14,7 @@
 ### 🧑‍💻 Sobre mí
 
 - Construyo **APIs REST y microservicios con Java y Spring Boot**: arquitectura hexagonal, JWT, JPA, Flyway y Docker.
-- Trabajo con **Python** para scripts, automatización y validación de datos con PySpark.
+- Tengo bases de **Python** y estoy empezando a aprender **PySpark** para procesamiento y validación de datos.
 - Diseño **bases de datos relacionales** en PostgreSQL y MySQL.
 - Desarrollo **sitios web en WordPress** optimizados para velocidad, SEO y conversión para clientes freelance.
 
@@ -27,17 +27,18 @@
 | [**InventarioB**](https://github.com/Isaac-G17/InventarioB) | Inventario fullstack con autenticación por access y refresh tokens | Spring Boot · Angular · PostgreSQL |
 | [**eventify**](https://github.com/Isaac-G17/eventify) | Plataforma de eventos con API REST documentada y panel administrativo | Java · Spring Boot · OpenAPI |
 | [**TallerExpress**](https://github.com/Isaac-G17/TallerExpress) | Gestión de talleres mecánicos con control de acceso por roles | Java · PostgreSQL · JDBC |
-| [**TaskFlowSPA**](https://github.com/Isaac-G17/TaskFlowSPA) | SPA de gestión de tareas con autenticación y rutas protegidas | JavaScript · Vite · Tailwind |
+| [**TaskFlowSPA**](https://github.com/Isaac-G17/TaskFlowSPA) | SPA de gestión de tareas con autenticación y rutas protegidas | JavaScript · Vite |
 
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,docker,git,github,js,html,css,tailwind,angular,wordpress,linux&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,docker,git,github,js,html,css,angular,wordpress,linux&perline=8" alt="Tecnologías" />
 </p>
 
 ### 🌱 Ahora mismo
 
 - Profundizando en microservicios, testing (JUnit, Mockito) y observabilidad.
+- Dando mis primeros pasos con PySpark.
 - Formándome como desarrollador de software en Riwi.
 
 ### 📫 Contacto
