@@ -1,51 +1,50 @@
-<h1 align="center"> 👋 Hi there, I'm Isaac Guzman </h1>
+<h1 align="center">Hola, soy Isaac Guzmán 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/Isaac-G17" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Isaac-G17&label=Profile%20views&color=red&style=flat" alt="Profile views" />
-  </a>
+  <b>Backend Developer · Java · Spring Boot · Python · SQL · Docker</b><br>
+  Coder en <b>Riwi</b> · Desarrollador web freelance (WordPress) · Barranquilla, Colombia
 </p>
 
-💻 WordPress Developer  
-🧑‍💻 Coder at Riwi  
-🚀 Freelance Web Developer for a marketing agency  
-
-I specialize in building functional, optimized, and conversion-focused websites using WordPress and modern web technologies.
-
----
-
-## 📚💻 What I do
-
-- WordPress website development
-- Technical SEO optimization
-- Web layout (HTML, CSS, JavaScript)
-<!-- Version control with Git & GitHub -->
-
----
-
-## 🛠 Tech Stack & Tools
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,wordpress,git,figma&perline=4" alt="Core Technologies"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Isaac-G17&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
 </p>
 
 ---
-<!--
-## 📊 GitHub Stats
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-G17&show_icons=true&theme=tokyonight)
+### 🧑‍💻 Sobre mí
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-G17&layout=compact)
--->
+- Construyo **APIs REST y microservicios con Java y Spring Boot**: arquitectura hexagonal, JWT, JPA, Flyway y Docker.
+- Trabajo con **Python** para scripts, automatización y validación de datos con PySpark.
+- Diseño **bases de datos relacionales** en PostgreSQL y MySQL.
+- Desarrollo **sitios web en WordPress** optimizados para velocidad, SEO y conversión para clientes freelance.
 
-## Beyond code
+### 🚀 Proyectos destacados
 
-When I'm not coding:
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**HelpFlow**](https://github.com/Isaac-G17/HelpFlow) | Gestión de tickets de soporte TI con microservicios, monitoreo y despliegue con Docker | Java · Spring Boot · PostgreSQL · Prometheus · Grafana |
+| [**StockBridge**](https://github.com/Isaac-G17/StockBridge) | Inventario y solicitudes internas con arquitectura hexagonal y observabilidad | Java · Spring Boot · JWT · Flyway · Docker |
+| [**InventarioB**](https://github.com/Isaac-G17/InventarioB) | Inventario fullstack con autenticación por access y refresh tokens | Spring Boot · Angular · PostgreSQL |
+| [**eventify**](https://github.com/Isaac-G17/eventify) | Plataforma de eventos con API REST documentada y panel administrativo | Java · Spring Boot · OpenAPI |
+| [**TallerExpress**](https://github.com/Isaac-G17/TallerExpress) | Gestión de talleres mecánicos con control de acceso por roles | Java · PostgreSQL · JDBC |
+| [**TaskFlowSPA**](https://github.com/Isaac-G17/TaskFlowSPA) | SPA de gestión de tareas con autenticación y rutas protegidas | JavaScript · Vite · Tailwind |
 
-⚽ I play or watch soccer <br>
-🎸 I play electric bass <br>
-📚 I keep learning new things
+### 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,docker,git,github,js,html,css,tailwind,angular,wordpress,linux&perline=8" alt="Tecnologías" />
+</p>
+
+### 🌱 Ahora mismo
+
+- Profundizando en microservicios, testing (JUnit, Mockito) y observabilidad.
+- Formándome como desarrollador de software en Riwi.
+
+### 📫 Contacto
+
+- 🌐 Portafolio: [isaac-g17.github.io](https://isaac-g17.github.io)
+- ✉️ Email: guzmanisaac2005@outlook.com
 
 ---
 
-💡 *Building digital solutions while enjoying the process.*
+<p align="center">Fuera del código: ⚽ fútbol · 🎸 bajo eléctrico · 📚 aprender algo nuevo cada día</p>
